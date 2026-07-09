@@ -81,14 +81,6 @@ I can discuss the public-safe parts in interviews:
 - Tool-use evaluation tasks such as need recognition, selection, execution, and tool-chain composition
 - Failure analysis patterns: missed invocation, invalid calls, wrong selection, ignored output, and tool-induced bias
 
-## Additional Project Experience
-
-### Jiyou Shangpin - Hebei Local Specialty Product Marketing Plan
-
-A team marketing-plan project for bringing Hebei local specialty products online through short-video traffic, livestream commerce, online/offline conversion, supply-chain cooperation, and public-interest support.
-
-Current progress: passed the university-level competition round.
-
 ## Technical Stack
 
 ```text
