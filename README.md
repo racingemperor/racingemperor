@@ -113,5 +113,3 @@ Working style:    paper reading, structured notes, evidence-first project packag
 - Manip Tool Hub: [racingemperor.github.io/manip-tool-hub](https://racingemperor.github.io/manip-tool-hub/)
 - Manip Tool Hub repository: [github.com/racingemperor/manip-tool-hub](https://github.com/racingemperor/manip-tool-hub)
 - RoleFit Pipeline: [github.com/racingemperor/rolefit-pipeline](https://github.com/racingemperor/rolefit-pipeline)
-
-<!-- profile-readme-refresh: 2026-07-09T21:43:37+08:00 -->
