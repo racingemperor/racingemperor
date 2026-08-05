@@ -9,9 +9,6 @@
   <a href="https://racingemperor.github.io/manip-tool-hub/">
     <img alt="Manip Tool Hub" src="https://img.shields.io/badge/Featured-Manip%20Tool%20Hub-2563eb">
   </a>
-  <a href="https://github.com/racingemperor/rolefit-pipeline">
-    <img alt="RoleFit Pipeline" src="https://img.shields.io/badge/Project-RoleFit%20Pipeline-0f766e">
-  </a>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?logo=nextdotjs&logoColor=white">
@@ -54,19 +51,6 @@ What it shows:
 - Static deployment through GitHub Pages, with project pages designed for inspection rather than only decoration
 
 This is the main public proof of my current AI tooling direction.
-
-### RoleFit Pipeline
-
-[Repository](https://github.com/racingemperor/rolefit-pipeline)
-
-A Python workflow experiment for early-career role fit, learning gaps, and resume reverse design.
-
-What it explores:
-
-- Turning a target role into structured skill, project, and evidence requirements
-- Separating completed resume claims from planned learning/project work
-- Rendering resume artifacts while keeping factual-review and source-policy gates
-- Using local scripts and prompt workflows to make career planning more systematic
 
 ## Private / Non-Public Work I Can Discuss Carefully
 
