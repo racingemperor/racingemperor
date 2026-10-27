@@ -1,84 +1,21 @@
-<h1 align="center">Qianjiang Li</h1>
+# Qianjiang Li
 
-<p align="center">
-  Undergraduate CS student building around AI agents, embodied-AI tooling, and benchmark-driven validation.<br>
-  Hebei University of Technology
-</p>
+**Machine Learning · Computer Vision · Embodied AI**
 
-<p align="center">
-  <a href="https://racingemperor.github.io/manip-tool-hub/">
-    <img alt="Manip Tool Hub" src="https://img.shields.io/badge/Featured-Manip%20Tool%20Hub-2563eb">
-  </a>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?logo=nextdotjs&logoColor=white">
-</p>
+Computer Science undergraduate at **Hebei University of Technology**.
 
----
+My work focuses on **vision-language-action (VLA) model evaluation** and the **robustness of embodied AI systems**. I build evaluation workflows, analyze rollout failures, and develop research tools that make experiments reproducible and results easy to inspect.
 
-I am interested in practical research-engineering work where AI systems become easier to inspect, evaluate, and explain. My current focus is:
+## Research & Engineering
 
-- tool calling and tool orchestration for AI agents
-- embodied-AI and robotics tool catalogs
-- benchmark notes, evaluation tables, and failure analysis
-- lightweight frontends for research demos and technical evidence
-- Python workflows for structured reasoning, career tooling, and resume evidence checks
+- **Model evaluation:** Python workflows, model adapters, reproducible experiments, and rollout analysis.
+- **Robustness testing:** Investigating how changes in visual observations, task conditions, and execution affect robot policies.
+- **Research tooling:** Benchmark interfaces, interactive result visualization, and structured tool registries using TypeScript and JavaScript.
 
-I am looking for internship or research-assistant opportunities around AI applications, model evaluation, AI tooling, technical documentation, and frontend interfaces for research systems.
+## Selected Work
 
-## What I Am Building Toward
+- **[LIBERO-Pro2.0](https://github.com/LIBERO-Pro-Team/LIBERO-Pro2.0)** — Contributor to a robustness benchmark for embodied foundation models, with work on evaluation workflows and benchmark presentation. [Website](https://racingemperor.github.io/LIBERO-Pro2.0/)
 
-| Direction | What I Care About | Current Evidence |
-| --- | --- | --- |
-| AI Agent tooling | Tool registry, input/output contracts, wrapper design, runtime feedback | EmbodiedTool notes, Manip Tool Hub |
-| Embodied AI | Perception, grounding, planning, manipulation, navigation tools | Robotics and embodied benchmark catalog |
-| Evaluation | Benchmark structure, oracle design, failure modes, reproducible notes | Dataset and leaderboard pages |
-| Product-facing AI | Clear demos, searchable docs, static deployment, readable project pages | Next.js / TypeScript project pages |
+- **[Embodied Generalist Exam / AI4Robot](https://github.com/racingemperor/ai4robot-website)** — Interactive research website for embodied task exploration, model comparison, and episode replay. [Demo](https://racingemperor.github.io/ai4robot-website/)
 
-## Featured Work
-
-### Manip Tool Hub
-
-[Live site](https://racingemperor.github.io/manip-tool-hub/) / [Repository](https://github.com/racingemperor/manip-tool-hub)
-
-A research-engineering hub for embodied-AI and robotics tools, benchmark evidence, and validation notes.
-
-What it shows:
-
-- A browsable catalog for perception, cognition, reasoning/planning, and execution/control tools
-- Tool detail pages with capability summaries, input/output contracts, examples, parameters, benchmark rows, demos, and official links
-- Typed TypeScript data registries for tools, datasets, and leaderboard entries
-- Static deployment through GitHub Pages, with project pages designed for inspection rather than only decoration
-
-This is the main public proof of my current AI tooling direction.
-
-## Private / Non-Public Work I Can Discuss Carefully
-
-### EmbodiedTool / Tool Agent
-
-Private collaborative project support around embodied tool use and evaluation.
-
-I can discuss the public-safe parts in interviews:
-
-- EmbodiedToolProtocol-style thinking: registration, discovery, invocation, and execution
-- Tool registry metadata, JSON schema constraints, wrapper contracts, and runtime feedback
-- Tool-use evaluation tasks such as need recognition, selection, execution, and tool-chain composition
-- Failure analysis patterns: missed invocation, invalid calls, wrong selection, ignored output, and tool-induced bias
-
-## Technical Stack
-
-```text
-Languages:        Python, TypeScript, JavaScript, HTML, CSS
-Frontend:         Next.js, React, Tailwind CSS, GitHub Pages
-AI / Agents:      tool calling, tool registry, context organization, eval harness
-Embodied AI:      VLM tool use, robotics tools, benchmark review, manipulation/navigation notes
-Engineering:      Git, GitHub Actions, typed registries, static deployment
-Working style:    paper reading, structured notes, evidence-first project packaging
-```
-
-## Current Next Steps
-
-- Add more runnable validation examples to Manip Tool Hub
-- Convert selected robotics / embodied-AI tool notes into reproducible case studies
-- Improve benchmark pages so each entry connects task, input/output, metrics, and failure cases
-- Keep each public repository clear about what is complete, what is planned, and what can be discussed in interviews
+- **[Manip Tool Hub](https://github.com/racingemperor/manip-tool-hub)** — Searchable catalog of perception, planning, and control tools, with structured interfaces and benchmark references. [Demo](https://racingemperor.github.io/manip-tool-hub/)
